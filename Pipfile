@@ -14,7 +14,8 @@ importlib-metadata = "6.0.0"
 importlib-resources = "5.10.0"
 Faker = "14.2.0"
 sqlalchemy-serializer = "*"
+sqlalchemy = ">=2.0.36"
 
 
 [requires]
-python_full_version = "3.8.13"
+python_version = "3.13"
